@@ -1,0 +1,5 @@
+million = list(range(1, 1000001))
+minimum = min(million)
+maximum = max(million)
+sum_million = sum(million)
+print(f'The minimum value in the list is: {minimum}. The maximum value is: {maximum}. The sum is: {sum_million}.')
