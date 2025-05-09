@@ -1,0 +1,2 @@
+person = {'first_name': 'Rose', 'last_name': 'Young', 'age': 34, 'city':'New York'}
+print(f"The person name is {person['first_name']} {person["last_name"]}. She is {person['age'] } years old and lives in {person["city"]}.")
